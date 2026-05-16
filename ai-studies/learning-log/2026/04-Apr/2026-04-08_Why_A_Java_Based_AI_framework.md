@@ -15,7 +15,7 @@ I've read thru the documentation and samples and I was able to understand and im
 The integration with Spring Boot is also a very positive factor, I was able to evolve naturally Spring Boot based applications with the addition of AI Components from the LangChain4j framework. In[...]
 
 ## Some initial POCs I've made
-Some examples with chat assistants are here: [langchain4j-examples](/ai-studies/langchain4j-examples/ai-services/src/main/java/com/example/ai_platform/)
+Some examples with chat assistants are here: [langchain4j-examples](/ai-studies/langchain4j-examples/)
 
 One great idea is to facilitate the end user interaction in complex systems. For example for a quick query on the status of a transaction could be obtained in a chat assistant, instead of going thru a[...]
 For that, the chat assitant could be enhanced with tools integrated with the core systems.
